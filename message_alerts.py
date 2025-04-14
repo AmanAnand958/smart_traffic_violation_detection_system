@@ -2,9 +2,9 @@
 from twilio.rest import Client
 
 # Twilio credentials (replace with your own)
-TWILIO_ACCOUNT_SID = "AC05044eea0e8d84b278342aa1dd58a9da"
-TWILIO_AUTH_TOKEN = "3790d58d4256ef3801f5063cb7f6a0bc"
-TWILIO_PHONE_NUMBER = "+12083615855"
+TWILIO_ACCOUNT_SID = ""
+TWILIO_AUTH_TOKEN = ""
+TWILIO_PHONE_NUMBER = ""
 
 
 class MessageAlerts:
